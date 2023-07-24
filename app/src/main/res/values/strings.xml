@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OpenEye_NFTMaketplace</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_profiles">Profiles</string>
+    <string name="nav_profiles_collection">Collection</string>
+</resources>
