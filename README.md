@@ -1,1 +1,1 @@
-# OpenEye_NFTMaketPlace
+# NFT-MarketPlace
